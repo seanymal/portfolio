@@ -5,6 +5,6 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
   integrations: [tailwind()],
   output: 'static',
-  site: 'https://goodstir.github.io',
+  site: 'https://seanymal.github.io',
 });
 

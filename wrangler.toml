@@ -1,0 +1,11 @@
+# Cloudflare Pages configuration
+# This file is optional - Cloudflare Pages will auto-detect Astro projects
+# But you can customize build settings here if needed
+
+[build]
+command = "npm run build"
+cwd = "."
+
+[build.environment_variables]
+NODE_VERSION = "22"
+
