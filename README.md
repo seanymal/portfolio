@@ -61,3 +61,4 @@ For custom domain setup:
 2. Configure DNS settings in your hosting provider
 3. Update the `site` URL in `astro.config.mjs` to match your domain
 
+# portfolio
